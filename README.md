@@ -15,4 +15,7 @@
 
 <div style= "display: inline block"> 
 <img aling = "center" alt="C" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<div style= "display: inline block"> 
+<img aling = "center" alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=whitee"/>
 </div>
