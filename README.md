@@ -1,6 +1,6 @@
 ### Hello, World!👋🌎
 
-## Olá! Eu sou a Lara Livian 🖐️✨ Estou no meu terceiro período do curso Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia e inovação. Como iniciante, estou motivada a aprender e crescer profissionalmente!
+## Olá! Eu sou a Lara Livian 🖐️✨ Estou no meu quinto período do curso Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia e inovação. Como iniciante, estou motivada a aprender e crescer profissionalmente!
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laralivian_/)[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaraLivian)
 
 ### Linguagens que eu utilizo.
